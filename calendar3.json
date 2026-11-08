@@ -6,6 +6,7 @@
   "hl": "3 segundos",
   "sup": "Lo primero que se ve decide si se quedan.",
   "price": "",
+  "plbl": "",
   "cta": "Guárdalo",
   "vo": [
    "Tienes tres segundos para que no te pasen de largo.",
@@ -28,6 +29,7 @@
   "hl": "redes",
   "sup": "A) Yo, en la noche · B) Mi sobrino · C) Nadie · D) Una agencia",
   "price": "",
+  "plbl": "",
   "cta": "Comenta tu letra",
   "vo": [
    "Pregunta rápida para dueños de negocio.",
@@ -46,18 +48,19 @@
  {
   "slot": "S",
   "svc": "Web",
-  "title": "Pack Despegue Digital: todo incluido, pago único.",
-  "hl": "pago único.",
+  "title": "Pack Despegue Digital: todo incluido.",
+  "hl": "todo incluido.",
   "sup": "Diseño mobile · WhatsApp · Dominio · Hosting · SSL 1 año · 72 h",
-  "price": "$5,900 MXN",
+  "price": "$5,900",
+  "plbl": "+ $2,400/AÑO RENOVACIÓN",
   "cta": "Lo quiero",
   "vo": [
    "Esto es todo lo que incluye tu página.",
    "Diseño para celular, botón de WhatsApp, dominio, hosting y certificado de seguridad por un año.",
    "Entregada en setenta y dos horas.",
-   "Antes ocho mil quinientos. Hoy, cinco mil novecientos pesos, pago único, sin mensualidades."
+   "Antes ocho mil quinientos. Hoy, cinco mil novecientos pesos, y la renovación de hosting y dominio es de dos mil cuatrocientos al año."
   ],
-  "cap": "Pack Despegue Digital 🚀 ✔ Mobile ✔ WhatsApp ✔ Dominio + hosting + SSL 1 año ✔ 72 h. Antes $8,500 → $5,900 MXN pago único.",
+  "cap": "Pack Despegue Digital 🚀 ✔ Mobile ✔ WhatsApp ✔ Dominio + hosting + SSL 1 año ✔ 72 h. Antes $8,500 → $5,900 MXN. Renovación anual de hosting + dominio: $2,400 MXN.",
   "scene": "taco shop owner proudly showing his new website on his phone to a customer",
   "day": 1,
   "date": "2026-11-09",
@@ -72,6 +75,7 @@
   "hl": "pixeleado",
   "sup": "Pídele a tu diseñador el archivo en vector: AI, EPS o PDF.",
   "price": "",
+  "plbl": "",
   "cta": "Mándaselo a quien lo necesite",
   "vo": [
    "¿Tu logo sale pixeleado en la lona?",
@@ -94,6 +98,7 @@
   "hl": "citas",
   "sup": "Solace Skin Lab · El Paso, TX · solaceskinlab.com",
   "price": "",
+  "plbl": "",
   "cta": "Quiero una así",
   "vo": [
    "Esta página recibe citas mientras ellos trabajan.",
@@ -101,7 +106,7 @@
    "La diseñamos y la construimos nosotros.",
    "¿Quieres una así? Escríbenos."
   ],
-  "cap": "Caso real: Solace Skin Lab (El Paso, TX). Agenda de citas, promociones y CRM propio.",
+  "cap": "Caso real: Solace Skin Lab (El Paso, TX). Agenda de citas, promociones y CRM propio.\n\n🔗 Míralo en vivo: https://solaceskinlab.com",
   "scene": "SITE:web-solace.webp",
   "day": 2,
   "date": "2026-11-10",
@@ -116,6 +121,7 @@
   "hl": "5 cosas",
   "sup": "01 Qué vendes · 02 Dónde estás · 03 Precio o desde · 04 Fotos reales · 05 Botón de WhatsApp",
   "price": "",
+  "plbl": "",
   "cta": "Comenta cuál te falta",
   "vo": [
    "Cinco cosas que debe tener tu página de inicio.",
@@ -138,6 +144,7 @@
   "hl": "te frena",
   "sup": "A) El precio · B) El tiempo · C) No sé por dónde empezar",
   "price": "",
+  "plbl": "",
   "cta": "Comenta tu letra",
   "vo": [
    "¿Qué te frena para tener tu página web?",
@@ -160,6 +167,7 @@
   "hl": "$40 al día.",
   "sup": "4 posts al mes · textos · hashtags · publicamos por ti",
   "price": "$1,200 / mes",
+  "plbl": "",
   "cta": "Quiero el Emprendedor",
   "vo": [
    "Menos de lo que gastas en un café al día.",
@@ -182,6 +190,7 @@
   "hl": "todo el texto",
   "sup": "La imagen detiene. El texto de abajo vende.",
   "price": "",
+  "plbl": "",
   "cta": "Guárdalo",
   "vo": [
    "Deja de poner todo el texto en tu post.",
@@ -204,6 +213,7 @@
   "hl": "El Paso?",
   "sup": "Empire Refrigeration · HVAC · weneedair.com",
   "price": "",
+  "plbl": "",
   "cta": "Pregunta precio en dólares",
   "vo": [
    "¿Tu negocio está en El Paso?",
@@ -211,7 +221,7 @@
    "Te atendemos en español o en inglés, cien por ciento en línea.",
    "Pregúntanos por el precio en dólares."
   ],
-  "cap": "De Juárez para El Paso 🇲🇽🇺🇸 Caso real: Empire Refrigeration (weneedair.com).",
+  "cap": "De Juárez para El Paso 🇲🇽🇺🇸 Caso real: Empire Refrigeration (weneedair.com).\n\n🔗 Míralo en vivo: https://weneedair.com",
   "scene": "SITE:web-weneedair.webp",
   "day": 4,
   "date": "2026-11-12",
@@ -226,6 +236,7 @@
   "hl": "sol de Juárez",
   "sup": "Material reforzado 13 oz · Impresión 1440 dpi · Ojillos cada 50 cm",
   "price": "",
+  "plbl": "",
   "cta": "Comenta tu experiencia",
   "vo": [
    "Esto le pasa a una lona barata con el sol de Juárez.",
@@ -248,6 +259,7 @@
   "hl": "espanta",
   "sup": "01 Último post de hace meses · 02 Fotos borrosas · 03 Mensajes sin contestar",
   "price": "",
+  "plbl": "",
   "cta": "Guárdalo",
   "vo": [
    "Tres señales de que tu Facebook espanta clientes.",
@@ -270,6 +282,7 @@
   "hl": "al momento.",
   "sup": "Lonas · vinil · banderas · stickers · DTF · tarjetas",
   "price": "",
+  "plbl": "",
   "cta": "Cotiza ya",
   "vo": [
    "Sin vueltas.",
@@ -292,6 +305,7 @@
   "hl": "sí te escribe.",
   "sup": "Botón de WhatsApp en tu página: un toque y ya está en tu chat.",
   "price": "",
+  "plbl": "",
   "cta": "Mándaselo a un amigo con negocio",
   "vo": [
    "El cliente que no te llama, sí te escribe.",
@@ -314,6 +328,7 @@
   "hl": "su foto.",
   "sup": "Figuras de coroplast para XV años, bodas y cumpleaños.",
   "price": "",
+  "plbl": "",
   "cta": "Comenta “figura”",
   "vo": [
    "La figura que todos quieren en su foto.",
@@ -321,7 +336,7 @@
    "Se recoge en nuestro local de Juárez.",
    "Comenta figura y te mandamos info."
   ],
-  "cap": "Figuras de coroplast tamaño real 🎉 XV años, bodas, cumpleaños. Desde $380.",
+  "cap": "Figuras de coroplast tamaño real 🎉 XV años, bodas, cumpleaños. Desde $380.\n\n💬 Comenta “FIGURA” y te mandamos la info por mensaje.",
   "scene": "PHOTO:coroplast-xv.webp",
   "day": 6,
   "date": "2026-11-14",
@@ -336,6 +351,7 @@
   "hl": "con tu celular",
   "sup": "01 Luz de ventana · 02 Fondo limpio · 03 Cámara a la altura del producto",
   "price": "",
+  "plbl": "",
   "cta": "Guárdalo",
   "vo": [
    "Tres trucos para fotos de producto con tu celular.",
@@ -358,6 +374,7 @@
   "hl": "3 palabras.",
   "sup": "Nosotros: creativo, rápido, sin vueltas.",
   "price": "",
+  "plbl": "",
   "cta": "Comenta",
   "vo": [
    "Juego rápido.",
@@ -380,14 +397,15 @@
   "hl": "se pagó sola.",
   "sup": "Todo lo que venga después es ganancia.",
   "price": "",
+  "plbl": "",
   "cta": "Haz la cuenta",
   "vo": [
    "Haz esta cuenta.",
    "Si un cliente nuevo te deja setecientos cincuenta pesos, con ocho clientes tu página web ya se pagó sola.",
-   "Todo lo que venga después es ganancia, sin mensualidades.",
+   "Sin mensualidades: solo una renovación de dos mil cuatrocientos pesos al año.",
    "Escríbenos y la hacemos con tus números."
   ],
-  "cap": "Pack $5,900 ÷ lo que te deja un cliente = clientes para que se pague sola 🧮",
+  "cap": "Pack $5,900 ÷ lo que te deja un cliente = clientes para que se pague sola 🧮 Después, solo $2,400 MXN al año de renovación (hosting + dominio).",
   "scene": "auto mechanic shop owner with a calculator and receipt on the counter, smiling",
   "day": 7,
   "date": "2026-11-15",
@@ -402,6 +420,7 @@
   "hl": "tú ves hacia afuera.",
   "sup": "Vinil microperforado: permitido en medallones.",
   "price": "",
+  "plbl": "",
   "cta": "Comenta “carro”",
   "vo": [
    "Tu carro puede ser tu anuncio, y tú sigues viendo hacia afuera.",
@@ -409,7 +428,7 @@
    "Desde afuera ven tu marca, y desde adentro ves la calle sin problema.",
    "Si te interesa, comenta carro."
   ],
-  "cap": "Vinil microperforado en el medallón 🚗 Ellos ven tu publicidad, tú ves la calle.",
+  "cap": "Vinil microperforado en el medallón 🚗 Ellos ven tu publicidad, tú ves la calle.\n\n💬 Comenta “CARRO” y te mandamos la info por mensaje.",
   "scene": "rear window of a pickup truck with a colorful perforated vinyl advertising graphic, parked on a sunny street",
   "day": 8,
   "date": "2026-11-16",
@@ -424,6 +443,7 @@
   "hl": "cotizador",
   "sup": "Tlaloc SolFuturo · Energía solar · tlalocsolfuturo.com",
   "price": "",
+  "plbl": "",
   "cta": "Quiero una así",
   "vo": [
    "Tlaloc SolFuturo vende energía solar.",
@@ -431,7 +451,7 @@
    "Menos llamadas repetidas, y clientes que llegan listos para comprar.",
    "¿Qué necesita tu negocio? Escríbenos."
   ],
-  "cap": "Caso real: Tlaloc SolFuturo ☀️ Cotizador con recibo de luz.",
+  "cap": "Caso real: Tlaloc SolFuturo ☀️ Cotizador con recibo de luz.\n\n🔗 Míralo en vivo: https://tlalocsolfuturo.com",
   "scene": "SITE:web-tlaloc.webp",
   "day": 8,
   "date": "2026-11-16",
@@ -446,6 +466,7 @@
   "hl": "72 horas.",
   "sup": "01 Nos cuentas tu negocio · 02 Mandas fotos y datos · 03 En línea",
   "price": "",
+  "plbl": "",
   "cta": "Comenta tu pregunta",
   "vo": [
    "¿Cuánto tarda hacer una página web?",
@@ -468,6 +489,7 @@
   "hl": "estratega.",
   "sup": "Color, composición y jerarquía según lo que quieres vender.",
   "price": "",
+  "plbl": "",
   "cta": "Comenta si usas Canva",
   "vo": [
    "Pasas horas en Canva y sigue viéndose poco profesional.",
@@ -490,6 +512,7 @@
   "hl": "trabajan para ti.",
   "sup": "12 posts · 8 historias · 1 campaña con $300 de pauta · reporte quincenal",
   "price": "$2,900 / mes",
+  "plbl": "",
   "cta": "Quiero el Crecimiento",
   "vo": [
    "Esto incluye el paquete más elegido.",
@@ -512,6 +535,7 @@
   "hl": "tu cliente.",
   "sup": "Cada color dice algo: confianza, precio, energía.",
   "price": "",
+  "plbl": "",
   "cta": "Comenta tus colores",
   "vo": [
    "Tus colores no son tu gusto. Son tu cliente.",
@@ -534,6 +558,7 @@
   "hl": "sol de Juárez.",
   "sup": "Lonas 13 oz · Vinil · Banderas · Rotulación",
   "price": "",
+  "plbl": "",
   "cta": "Cotiza por WhatsApp",
   "vo": [
    "Materiales que aguantan el sol de Juárez.",
@@ -556,6 +581,7 @@
   "hl": "te recuerden.",
   "sup": "Stickers para tu empaque: corte a contorno, resistentes al agua.",
   "price": "",
+  "plbl": "",
   "cta": "Mándaselo a quien vende en línea",
   "vo": [
    "El detalle que hace que te recuerden.",
@@ -578,6 +604,7 @@
   "hl": "vinil?",
   "sup": "¿Qué usas tú para que te vean?",
   "price": "",
+  "plbl": "",
   "cta": "Comenta",
   "vo": [
    "Pregunta para negocios de Juárez.",
@@ -600,6 +627,7 @@
   "hl": "invitado especial.",
   "sup": "Figura de coroplast tamaño real · corte a silueta · base incluida",
   "price": "Desde $380",
+  "plbl": "",
   "cta": "Pide tu figura",
   "vo": [
    "Que tu posada tenga un invitado especial.",
@@ -622,6 +650,7 @@
   "hl": "reseñas",
   "sup": "Mándale el link directo justo después de la venta.",
   "price": "",
+  "plbl": "",
   "cta": "Guárdalo",
   "vo": [
    "Pide reseñas así, y sí te las dejan.",
@@ -644,6 +673,7 @@
   "hl": "aviso",
   "sup": "Perfumería Mugan · tienda bilingüe · muganperfumes.com",
   "price": "",
+  "plbl": "",
   "cta": "Cotiza tu tienda",
   "vo": [
    "Perfumería Mugan vende en El Paso.",
@@ -651,7 +681,7 @@
    "Cada pedido le llega como aviso a su celular.",
    "¿Quieres vender así? Escríbenos."
   ],
-  "cap": "Caso real: Perfumería Mugan 🛍️ Tienda bilingüe con pedidos y avisos al celular.",
+  "cap": "Caso real: Perfumería Mugan 🛍️ Tienda bilingüe con pedidos y avisos al celular.\n\n🔗 Míralo en vivo: https://muganperfumes.com",
   "scene": "SITE:web-mugan.webp",
   "day": 12,
   "date": "2026-11-20",
@@ -666,6 +696,7 @@
   "hl": "seguido",
   "sup": "La gente le compra a quien ve todos los días.",
   "price": "",
+  "plbl": "",
   "cta": "Comenta cuántas veces publicas",
   "vo": [
    "Publicar seguido le gana a publicar perfecto.",
@@ -688,6 +719,7 @@
   "hl": "contraseñas.",
   "sup": "Nos agregas como editores desde Meta Business. Te guiamos.",
   "price": "",
+  "plbl": "",
   "cta": "Pregunta cómo",
   "vo": [
    "¿Te da miedo dar tus contraseñas?",
@@ -710,6 +742,7 @@
   "hl": "sigue vendiendo.",
   "sup": "Catálogo, precios y ubicación mientras duermes.",
   "price": "",
+  "plbl": "",
   "cta": "Quiero mi página",
   "vo": [
    "Son las once de la noche y alguien quiere comprarte.",
@@ -732,6 +765,7 @@
   "hl": "WhatsApp.",
   "sup": "Tarjetas con código QR a tu chat o a tu página.",
   "price": "",
+  "plbl": "",
   "cta": "Comenta “QR”",
   "vo": [
    "Tu tarjeta de presentación puede abrir tu WhatsApp.",
@@ -739,7 +773,7 @@
    "El cliente la escanea y ya te está escribiendo, sin teclear tu número.",
    "Si quieres una así, comenta Q R."
   ],
-  "cap": "Tarjetas con QR a tu WhatsApp 📇 Laminado mate y barniz a registro.",
+  "cap": "Tarjetas con QR a tu WhatsApp 📇 Laminado mate y barniz a registro.\n\n💬 Comenta “QR” y te mandamos la info por mensaje.",
   "scene": "close-up of premium matte business cards with a QR code on a dark wood table, soft light",
   "day": 14,
   "date": "2026-11-22",
@@ -754,6 +788,7 @@
   "hl": "letra grande.",
   "sup": "Una lona se lee en 2 segundos, desde el carro.",
   "price": "",
+  "plbl": "",
   "cta": "Guárdalo",
   "vo": [
    "El error número uno en una lona: demasiado texto.",
@@ -776,6 +811,7 @@
   "hl": "celular.",
   "sup": "Tu página se diseña primero para el teléfono.",
   "price": "",
+  "plbl": "",
   "cta": "Revisa la tuya",
   "vo": [
    "Ocho de cada diez clientes te van a ver en el celular.",
@@ -798,6 +834,7 @@
   "hl": "propia página.",
   "sup": "Don Punto · Software para restaurantes · donpunto.com",
   "price": "",
+  "plbl": "",
   "cta": "Quiero una así",
   "vo": [
    "Don Punto es un punto de venta para restaurantes.",
@@ -805,7 +842,7 @@
    "Una web que explica y vende sola.",
    "¿Tienes un producto que explicar? Escríbenos."
   ],
-  "cap": "Caso real: Don Punto (donpunto.com) 💻 Landing con calculadora y marca completa.",
+  "cap": "Caso real: Don Punto (donpunto.com) 💻 Landing con calculadora y marca completa.\n\n🔗 Míralo en vivo: https://donpunto.com",
   "scene": "SITE:web-donpunto.webp",
   "day": 15,
   "date": "2026-11-23",
@@ -820,6 +857,7 @@
   "hl": "si te ven.",
   "sup": "8 posts · 4 historias · 1 campaña con $200 de pauta",
   "price": "$1,800 / mes",
+  "plbl": "",
   "cta": "Quiero el Starter",
   "vo": [
    "Diciembre es el mes en que más se compra.",
@@ -842,6 +880,7 @@
   "hl": "vende.",
   "sup": "Informa: “Abiertos.” · Vende: “Tu antojo listo en 10 minutos.”",
   "price": "",
+  "plbl": "",
   "cta": "Comenta tu versión",
   "vo": [
    "Post que informa contra post que vende.",
@@ -864,6 +903,7 @@
   "hl": "admiras.",
   "sup": "Hagamos que más gente los conozca.",
   "price": "",
+  "plbl": "",
   "cta": "Etiqueta",
   "vo": [
    "Hoy queremos que nos ayudes.",
@@ -886,6 +926,7 @@
   "hl": "DTF",
   "sup": "DTF: full color, cualquier tela, desde una pieza.",
   "price": "",
+  "plbl": "",
   "cta": "Comenta tu duda",
   "vo": [
    "¿D T F o vinil para tus camisetas?",
@@ -908,6 +949,7 @@
   "hl": "caras.",
   "sup": "Laminado mate · barniz a registro · papelería completa",
   "price": "",
+  "plbl": "",
   "cta": "Cotiza",
   "vo": [
    "Una tarjeta que se siente cara dice que tu negocio es serio.",
@@ -930,6 +972,7 @@
   "hl": "Tú apruebas todo.",
   "sup": "Mes a mes, con 5 días de aviso.",
   "price": "",
+  "plbl": "",
   "cta": "Pruébanos un mes",
   "vo": [
    "¿Te ha quedado mal una agencia?",
@@ -952,6 +995,7 @@
   "hl": "confianza.",
   "sup": "Dominio propio: tunegocio.com y correo con tu nombre.",
   "price": "",
+  "plbl": "",
   "cta": "Comenta tu dominio",
   "vo": [
    "Un correo arroba gmail te resta confianza.",
@@ -974,6 +1018,7 @@
   "hl": "Gracias",
   "sup": "De Juárez a El Paso y todo México.",
   "price": "",
+  "plbl": "",
   "cta": "Etiqueta a un negocio",
   "vo": [
    "Hoy queremos dar las gracias.",
@@ -996,6 +1041,7 @@
   "hl": "lo que ya haces.",
   "sup": "El proceso, el antes y después, tu día normal.",
   "price": "",
+  "plbl": "",
   "cta": "Mándaselo a alguien que dice “no sé qué subir”",
   "vo": [
    "No inventes contenido: enseña lo que ya haces.",
@@ -1018,6 +1064,7 @@
   "hl": "bloquean?",
   "sup": "Tu página web es 100% tuya.",
   "price": "",
+  "plbl": "",
   "cta": "Comenta",
   "vo": [
    "Ya tengo Facebook, ¿para qué quiero página?",
@@ -1040,6 +1087,7 @@
   "hl": "encontrar?",
   "sup": "La gente busca en el celular antes de comprar.",
   "price": "",
+  "plbl": "",
   "cta": "Quiero estar listo",
   "vo": [
    "Este Black Friday te van a buscar.",
@@ -1062,6 +1110,7 @@
   "hl": "desde la avenida.",
   "sup": "Banderas publicitarias Beach Flag y Drop con kit completo.",
   "price": "",
+  "plbl": "",
   "cta": "Comenta “bandera”",
   "vo": [
    "Que te vean desde la avenida.",
@@ -1069,7 +1118,7 @@
    "Viene con kit completo: base, mástil y tela impresa.",
    "Si la quieres para tu negocio, comenta bandera."
   ],
-  "cap": "Beach Flag y Drop con base, mástil y tela 🚩 Se ven desde la avenida.",
+  "cap": "Beach Flag y Drop con base, mástil y tela 🚩 Se ven desde la avenida.\n\n💬 Comenta “BANDERA” y te mandamos la info por mensaje.",
   "scene": "colorful feather beach flags waving in front of a small business on a wide avenue, blue sky",
   "day": 20,
   "date": "2026-11-28",
@@ -1084,6 +1133,7 @@
   "hl": "en video.",
   "sup": "Smock It Pool Service · El Paso · smockitpool.com",
   "price": "",
+  "plbl": "",
   "cta": "Quiero una así",
   "vo": [
    "Smock It Pool Service limpia albercas en El Paso.",
@@ -1091,7 +1141,7 @@
    "El cliente ve el resultado antes de llamar.",
    "¿Tu trabajo se ve mejor en video? Escríbenos."
   ],
-  "cap": "Caso real: Smock It Pool Service 🏊 Antes/después en video.",
+  "cap": "Caso real: Smock It Pool Service 🏊 Antes/después en video.\n\n🔗 Míralo en vivo: https://smockitpool.com",
   "scene": "SITE:web-smockitpool.webp",
   "day": 20,
   "date": "2026-11-28",
@@ -1106,6 +1156,7 @@
   "hl": "tamaño real",
   "sup": "Corte a silueta · Calidad HD · Base incluida",
   "price": "",
+  "plbl": "",
   "cta": "Comenta “figura”",
   "vo": [
    "Una figura de tamaño real en tu posada o en tu negocio.",
@@ -1113,7 +1164,7 @@
    "Todos se toman foto con ella, y tu evento sale en las redes de tus invitados.",
    "Si quieres una, comenta figura."
   ],
-  "cap": "Figuras de coroplast tamaño real 🎄 Para posadas, fiestas y la entrada de tu negocio. Desde $380.",
+  "cap": "Figuras de coroplast tamaño real 🎄 Para posadas, fiestas y la entrada de tu negocio. Desde $380.\n\n💬 Comenta “FIGURA” y te mandamos la info por mensaje.",
   "scene": "family taking a selfie next to a life-size cardboard cutout figure at a festive Christmas party in a house patio",
   "day": 21,
   "date": "2026-11-29",
@@ -1128,6 +1179,7 @@
   "hl": "pena",
   "sup": "Sin juzgar. Te damos un tip a cada uno.",
   "price": "",
+  "plbl": "",
   "cta": "Comenta",
   "vo": [
    "Pregunta sin juzgar.",
@@ -1150,6 +1202,7 @@
   "hl": "reenviar.",
   "sup": "Personajes animados · voz y música · confirmación en línea · avisos a tu celular",
   "price": "$1,490",
+  "plbl": "",
   "cta": "Quiero la mía",
   "vo": [
    "La invitación de tu posada que todos van a reenviar.",
@@ -1172,6 +1225,7 @@
   "hl": "30 veces",
   "sup": "Precios, horario, ubicación: todo en tu página.",
   "price": "",
+  "plbl": "",
   "cta": "Comenta qué te preguntan más",
   "vo": [
    "Deja de contestar lo mismo treinta veces al día.",
@@ -1194,6 +1248,7 @@
   "hl": "tu marca.",
   "sup": "Camisetas DTF full color, desde una pieza.",
   "price": "",
+  "plbl": "",
   "cta": "Cotiza",
   "vo": [
    "Un equipo uniformado se ve como un negocio serio.",
@@ -1216,6 +1271,7 @@
   "hl": "cada comentario.",
   "sup": "Cada respuesta le dice a Facebook que tu post vale la pena.",
   "price": "",
+  "plbl": "",
   "cta": "Comenta y te contestamos",
   "vo": [
    "Contesta cada comentario.",
@@ -1238,6 +1294,7 @@
   "hl": "mayoristas.",
   "sup": "Fajas Colombianas Juárez · fajascolombianasjuarez.com",
   "price": "",
+  "plbl": "",
   "cta": "Quiero una así",
   "vo": [
    "Fajas Colombianas Juárez vende al mayoreo.",
@@ -1245,7 +1302,7 @@
    "El mayorista llega sabiendo cuánto ahorra.",
    "¿Vendes al mayoreo? Escríbenos."
   ],
-  "cap": "Caso real: Fajas Colombianas Juárez 📦 Escala de descuentos y citas por WhatsApp.",
+  "cap": "Caso real: Fajas Colombianas Juárez 📦 Escala de descuentos y citas por WhatsApp.\n\n🔗 Míralo en vivo: https://fajascolombianasjuarez.com",
   "scene": "SITE:web-fajasjuarez.webp",
   "day": 23,
   "date": "2026-12-01",
@@ -1259,15 +1316,16 @@
   "title": "¿$5,900 es caro? Compáralo con lo que pierdes.",
   "hl": "lo que pierdes.",
   "sup": "Un cliente perdido a la semana cuesta más que tu página.",
-  "price": "$5,900 pago único",
+  "price": "$5,900",
+  "plbl": "+ $2,400/AÑO RENOVACIÓN",
   "cta": "Haz la cuenta",
   "vo": [
    "¿Cinco mil novecientos pesos es caro?",
    "Piensa cuánto pierdes si un solo cliente a la semana no te encuentra.",
    "En unas semanas, no tener página te cuesta más que tenerla.",
-   "Y la pagas una sola vez. Escríbenos."
+   "Y después, solo dos mil cuatrocientos pesos al año de renovación. Escríbenos."
   ],
-  "cap": "Lo caro es el cliente que no te encuentra. Pack $5,900 pago único.",
+  "cap": "Lo caro es el cliente que no te encuentra. Pack $5,900 MXN + $2,400 MXN al año de renovación (hosting + dominio).",
   "scene": "furniture store owner doing math with a notebook in front of a laptop",
   "day": 23,
   "date": "2026-12-01",
@@ -1282,6 +1340,7 @@
   "hl": "primer anuncio.",
   "sup": "Rotulación de fachadas, islas y vehículos.",
   "price": "",
+  "plbl": "",
   "cta": "Comenta tu giro",
   "vo": [
    "Tu fachada es tu primer anuncio.",
@@ -1304,6 +1363,7 @@
   "hl": "3 pasos.",
   "sup": "01 Escríbenos · 02 Aprueba tu calendario · 03 Publicamos",
   "price": "",
+  "plbl": "",
   "cta": "Paso 1: escríbenos",
   "vo": [
    "Arrancar con nosotros es fácil.",
@@ -1326,6 +1386,7 @@
   "hl": "se va.",
   "sup": "Rápida, ligera y con certificado de seguridad.",
   "price": "",
+  "plbl": "",
   "cta": "Mándaselo a tu diseñador",
   "vo": [
    "Si tu página tarda en abrir, el cliente se va.",
@@ -1348,6 +1409,7 @@
   "hl": "primera venta?",
   "sup": "Cuéntanos qué vendiste y a quién.",
   "price": "",
+  "plbl": "",
   "cta": "Comenta",
   "vo": [
    "¿Te acuerdas de tu primera venta?",
@@ -1370,6 +1432,7 @@
   "hl": "con tu marca.",
   "sup": "Camisetas DTF · termos · stickers · desde una pieza",
   "price": "",
+  "plbl": "",
   "cta": "Cotiza",
   "vo": [
    "Este fin de año, regálale a tu equipo algo con tu marca.",
@@ -1392,6 +1455,7 @@
   "hl": "ve seguido.",
   "sup": "Historias todos los días: corto, real, sin producción.",
   "price": "",
+  "plbl": "",
   "cta": "Comenta si subes historias",
   "vo": [
    "La gente le compra a quien ve seguido.",
@@ -1414,6 +1478,7 @@
   "hl": "NFC.",
   "sup": "BunkerTap · bilingüe · bunkertap.com",
   "price": "",
+  "plbl": "",
   "cta": "Quiero una así",
   "vo": [
    "BunkerTap vende tarjetas de presentación con N F C.",
@@ -1421,7 +1486,7 @@
    "Bilingüe, rápida y lista para vender.",
    "¿Tienes un producto nuevo? Escríbenos."
   ],
-  "cap": "Caso real: BunkerTap 📲 Tienda con perfiles digitales y analíticas.",
+  "cap": "Caso real: BunkerTap 📲 Tienda con perfiles digitales y analíticas.\n\n🔗 Míralo en vivo: https://bunkertap.com",
   "scene": "SITE:web-bunkertap.webp",
   "day": 26,
   "date": "2026-12-04",
@@ -1436,6 +1501,7 @@
   "hl": "reenvían.",
   "sup": "Video con voz y música + página para confirmar.",
   "price": "",
+  "plbl": "",
   "cta": "Comenta “posada”",
   "vo": [
    "La invitación de la posada que todos van a reenviar.",
@@ -1443,7 +1509,7 @@
    "Tú ves la lista en vivo desde tu celular.",
    "Si quieres la tuya, comenta posada."
   ],
-  "cap": "Invitaciones que se mueven 🎄 Video + confirmación en línea. Comenta “posada”.",
+  "cap": "Invitaciones que se mueven 🎄 Video + confirmación en línea.\n\n💬 Comenta “POSADA” y te mandamos la info por mensaje.",
   "scene": "mother and grandmother smiling while watching a video on a phone in a cozy home with Christmas lights",
   "day": 27,
   "date": "2026-12-05",
@@ -1458,6 +1524,7 @@
   "hl": "anuncio.",
   "sup": "Rotulación de vehículos con tu imagen completa.",
   "price": "",
+  "plbl": "",
   "cta": "Cotiza",
   "vo": [
    "Tu camioneta pasa frente a cientos de personas al día.",
@@ -1480,6 +1547,7 @@
   "hl": "dominar tu zona:",
   "sup": "16 posts · 12 historias · 2 reels editados · 2 campañas con $400 de pauta",
   "price": "$4,500 / mes",
+  "plbl": "",
   "cta": "Quiero el Pro",
   "vo": [
    "Para las marcas que quieren dominar su zona.",
@@ -1502,6 +1570,7 @@
   "hl": "con tiempo.",
   "sup": "Mándanos tu archivo hoy y te cotizamos al momento.",
   "price": "",
+  "plbl": "",
   "cta": "Mándaselo a quien tiene negocio",
   "vo": [
    "Diciembre se satura: pide tu lona con tiempo.",
@@ -1524,6 +1593,7 @@
   "hl": "diseñamos.",
   "sup": "Posts para negocios de El Paso y Juárez.",
   "price": "",
+  "plbl": "",
   "cta": "Quiero verme así",
   "vo": [
    "Así se ven las redes que diseñamos.",
@@ -1546,6 +1616,7 @@
   "hl": "enero.",
   "sup": "01 Página web · 02 Google Maps · 03 Redes al día · 04 Anuncios listos",
   "price": "",
+  "plbl": "",
   "cta": "Guárdalo",
   "vo": [
    "Tu checklist para arrancar enero vendiendo.",
@@ -1568,6 +1639,7 @@
   "hl": "2027?",
   "sup": "Escríbela. Lo que se escribe, se cumple más.",
   "price": "",
+  "plbl": "",
   "cta": "Comenta tu meta",
   "vo": [
    "Se acaba el año.",
@@ -1590,6 +1662,7 @@
   "hl": "vendiendo.",
   "sup": "Tu página y tus redes trabajando juntas. Pregunta por el combo.",
   "price": "",
+  "plbl": "",
   "cta": "Aparta tu inicio",
   "vo": [
    "Enero llega rápido.",
@@ -1612,6 +1685,7 @@
   "hl": "no sea perfecto.",
   "sup": "El que espera el post perfecto, no publica.",
   "price": "",
+  "plbl": "",
   "cta": "Comenta “hoy publico”",
   "vo": [
    "Publica aunque no sea perfecto.",
@@ -1619,7 +1693,7 @@
    "Empieza hoy con lo que tienes, y mejora cada semana.",
    "Comenta hoy publico, y hazlo."
   ],
-  "cap": "Hecho > perfecto 🚀 Comenta “hoy publico” y hazlo.",
+  "cap": "Hecho > perfecto 🚀 Hoy publicas, sin pretextos.\n\n💬 Comenta “HOY PUBLICO” y te mandamos la info por mensaje.",
   "scene": "confident Latino barber smiling at camera holding his phone in his barbershop, warm light",
   "day": 30,
   "date": "2026-12-08",
@@ -1634,6 +1708,7 @@
   "hl": "Gracias",
   "sup": "Nos vemos en diciembre con más contenido.",
   "price": "",
+  "plbl": "",
   "cta": "Síguenos",
   "vo": [
    "Gracias por este mes.",

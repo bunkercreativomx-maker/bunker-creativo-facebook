@@ -4,8 +4,8 @@
 START = "2026-11-09"
 WA = "656 682 5587"
 
-def P(slot, svc, title, hl, sup, cta, vo, cap, scene, price=""):
-    return dict(slot=slot, svc=svc, title=title, hl=hl, sup=sup, price=price, cta=cta, vo=vo, cap=cap, scene=scene)
+def P(slot, svc, title, hl, sup, cta, vo, cap, scene, price="", plbl=""):
+    return dict(slot=slot, svc=svc, title=title, hl=hl, sup=sup, price=price, plbl=plbl, cta=cta, vo=vo, cap=cap, scene=scene)
 
 R = [  # 30 Reels 9:16 — tips / detrás de cámaras / educación. CTA = comentar, guardar o mandar a alguien
  P("R","Redes","Tienes 3 segundos para que no te pasen de largo.","3 segundos","Lo primero que se ve decide si se quedan.","Guárdalo",
@@ -88,7 +88,7 @@ R = [  # 30 Reels 9:16 — tips / detrás de cámaras / educación. CTA = coment
    "Las historias te mantienen en la mente del cliente 📲 Corto, real, todos los días.","barista woman recording an instagram story of latte art with her phone in a cafe"),
  P("R","Invitaciones","La invitación de la posada que todos reenvían.","reenvían.","Video con voz y música + página para confirmar.","Comenta “posada”",
    ["La invitación de la posada que todos van a reenviar.","Un video con voz y música, y una página donde tus invitados confirman en un clic.","Tú ves la lista en vivo desde tu celular.","Si quieres la tuya, comenta posada."],
-   "Invitaciones que se mueven 🎄 Video + confirmación en línea. Comenta “posada”.","mother and grandmother smiling while watching a video on a phone in a cozy home with Christmas lights"),
+   "Invitaciones que se mueven 🎄 Video + confirmación en línea.","mother and grandmother smiling while watching a video on a phone in a cozy home with Christmas lights"),
  P("R","Imprenta","Diciembre se satura. Pide tu lona con tiempo.","con tiempo.","Mándanos tu archivo hoy y te cotizamos al momento.","Mándaselo a quien tiene negocio",
    ["Diciembre se satura: pide tu lona con tiempo.","Ventas navideñas, posadas, horarios especiales: todos la quieren la misma semana.","Mándanos tu archivo hoy y te cotizamos al momento.","Mándale esto a alguien que tiene negocio."],
    "Ventas navideñas, posadas, horarios especiales 🎅 Cotiza tu lona hoy.","busy print shop counter in December with rolled banners and Christmas decorations, customers waiting"),
@@ -97,7 +97,7 @@ R = [  # 30 Reels 9:16 — tips / detrás de cámaras / educación. CTA = coment
    "Checklist enero 2027 ✅ Guárdalo y palomea lo que ya tienes.","notebook with a handwritten checklist next to a laptop and coffee on a bright desk, new year planning"),
  P("R","Redes","Publica aunque no sea perfecto.","no sea perfecto.","El que espera el post perfecto, no publica.","Comenta “hoy publico”",
    ["Publica aunque no sea perfecto.","El negocio que espera el post perfecto nunca publica, y el que publica aprende qué funciona.","Empieza hoy con lo que tienes, y mejora cada semana.","Comenta hoy publico, y hazlo."],
-   "Hecho > perfecto 🚀 Comenta “hoy publico” y hazlo.","confident Latino barber smiling at camera holding his phone in his barbershop, warm light"),
+   "Hecho > perfecto 🚀 Hoy publicas, sin pretextos.","confident Latino barber smiling at camera holding his phone in his barbershop, warm light"),
 ]
 
 V = [  # 30 feed: comunidad, casos reales, mitos, imprenta portafolio
@@ -194,9 +194,9 @@ V = [  # 30 feed: comunidad, casos reales, mitos, imprenta portafolio
 ]
 
 S = [  # 15 venta (right hook) — oferta apilada Hormozi, precio al final
- P("S","Web","Pack Despegue Digital: todo incluido, pago único.","pago único.","Diseño mobile · WhatsApp · Dominio · Hosting · SSL 1 año · 72 h","Lo quiero",
-   ["Esto es todo lo que incluye tu página.","Diseño para celular, botón de WhatsApp, dominio, hosting y certificado de seguridad por un año.","Entregada en setenta y dos horas.","Antes ocho mil quinientos. Hoy, cinco mil novecientos pesos, pago único, sin mensualidades."],
-   "Pack Despegue Digital 🚀 ✔ Mobile ✔ WhatsApp ✔ Dominio + hosting + SSL 1 año ✔ 72 h. Antes $8,500 → $5,900 MXN pago único.","taco shop owner proudly showing his new website on his phone to a customer", price="$5,900 MXN"),
+ P("S","Web","Pack Despegue Digital: todo incluido.","todo incluido.","Diseño mobile · WhatsApp · Dominio · Hosting · SSL 1 año · 72 h","Lo quiero",
+   ["Esto es todo lo que incluye tu página.","Diseño para celular, botón de WhatsApp, dominio, hosting y certificado de seguridad por un año.","Entregada en setenta y dos horas.","Antes ocho mil quinientos. Hoy, cinco mil novecientos pesos, y la renovación de hosting y dominio es de dos mil cuatrocientos al año."],
+   "Pack Despegue Digital 🚀 ✔ Mobile ✔ WhatsApp ✔ Dominio + hosting + SSL 1 año ✔ 72 h. Antes $8,500 → $5,900 MXN. Renovación anual de hosting + dominio: $2,400 MXN.","taco shop owner proudly showing his new website on his phone to a customer", price="$5,900", plbl="+ $2,400/AÑO RENOVACIÓN"),
  P("S","Redes","Tus redes con diseño profesional por $40 al día.","$40 al día.","4 posts al mes · textos · hashtags · publicamos por ti","Quiero el Emprendedor",
    ["Menos de lo que gastas en un café al día.","Con el paquete Emprendedor recibes cuatro posts al mes con diseño profesional, textos y hashtags, y nosotros los publicamos.","Mil doscientos pesos al mes, sin contratos.","Escríbenos."],
    "Paquete Emprendedor · $1,200 MXN/mes ✔ 4 posts ✔ textos ✔ publicamos por ti. Sin contratos.","florist man arranging flowers in his shop, natural light", price="$1,200 / mes"),
@@ -204,8 +204,8 @@ S = [  # 15 venta (right hook) — oferta apilada Hormozi, precio al final
    ["Sin vueltas.","Nos mandas tu archivo o tu idea por WhatsApp y te damos precio al momento.","Lo imprimimos en alta resolución y lo recoges en nuestro local de Juárez.","¿Lo cotizamos?"],
    "Imprenta sin vueltas 🖨️ Cotiza → producimos → recoges en Calz. del Río 10060.","PHOTO:impresora.webp"),
  P("S","Web","Con 8 clientes nuevos, tu página se pagó sola.","se pagó sola.","Todo lo que venga después es ganancia.","Haz la cuenta",
-   ["Haz esta cuenta.","Si un cliente nuevo te deja setecientos cincuenta pesos, con ocho clientes tu página web ya se pagó sola.","Todo lo que venga después es ganancia, sin mensualidades.","Escríbenos y la hacemos con tus números."],
-   "Pack $5,900 ÷ lo que te deja un cliente = clientes para que se pague sola 🧮","auto mechanic shop owner with a calculator and receipt on the counter, smiling"),
+   ["Haz esta cuenta.","Si un cliente nuevo te deja setecientos cincuenta pesos, con ocho clientes tu página web ya se pagó sola.","Sin mensualidades: solo una renovación de dos mil cuatrocientos pesos al año.","Escríbenos y la hacemos con tus números."],
+   "Pack $5,900 ÷ lo que te deja un cliente = clientes para que se pague sola 🧮 Después, solo $2,400 MXN al año de renovación (hosting + dominio).","auto mechanic shop owner with a calculator and receipt on the counter, smiling"),
  P("S","Redes","Facebook + Instagram que trabajan para ti.","trabajan para ti.","12 posts · 8 historias · 1 campaña con $300 de pauta · reporte quincenal","Quiero el Crecimiento",
    ["Esto incluye el paquete más elegido.","Facebook e Instagram, doce posts, ocho historias y una campaña de anuncios con trescientos pesos de pauta incluida.","Y un reporte cada quince días por WhatsApp.","Dos mil novecientos pesos al mes, sin contratos."],
    "Paquete Crecimiento · $2,900 MXN/mes (el más elegido).","small gym owner reading client messages on his phone, happy", price="$2,900 / mes"),
@@ -228,8 +228,8 @@ S = [  # 15 venta (right hook) — oferta apilada Hormozi, precio al final
    ["La invitación de tu posada que todos van a reenviar.","Video con personajes animados, voz y música, y una página donde confirman en un clic.","Tú recibes un aviso cada vez que alguien confirma.","Paquete Personajes, mil cuatrocientos noventa pesos."],
    "Paquete Personajes $1,490 MXN 🎄 Video + página + avisos a tu celular.","grandmother and mother smiling at a phone video, cozy Christmas home", price="$1,490"),
  P("S","Web","¿$5,900 es caro? Compáralo con lo que pierdes.","lo que pierdes.","Un cliente perdido a la semana cuesta más que tu página.","Haz la cuenta",
-   ["¿Cinco mil novecientos pesos es caro?","Piensa cuánto pierdes si un solo cliente a la semana no te encuentra.","En unas semanas, no tener página te cuesta más que tenerla.","Y la pagas una sola vez. Escríbenos."],
-   "Lo caro es el cliente que no te encuentra. Pack $5,900 pago único.","furniture store owner doing math with a notebook in front of a laptop", price="$5,900 pago único"),
+   ["¿Cinco mil novecientos pesos es caro?","Piensa cuánto pierdes si un solo cliente a la semana no te encuentra.","En unas semanas, no tener página te cuesta más que tenerla.","Y después, solo dos mil cuatrocientos pesos al año de renovación. Escríbenos."],
+   "Lo caro es el cliente que no te encuentra. Pack $5,900 MXN + $2,400 MXN al año de renovación (hosting + dominio).","furniture store owner doing math with a notebook in front of a laptop", price="$5,900", plbl="+ $2,400/AÑO RENOVACIÓN"),
  P("S","Imprenta","Regálale a tu equipo algo con tu marca.","con tu marca.","Camisetas DTF · termos · stickers · desde una pieza","Cotiza",
    ["Este fin de año, regálale a tu equipo algo con tu marca.","Camisetas a todo color, termos personalizados y stickers, desde una sola pieza.","Se ven bien, y anuncian tu negocio todo el año.","Cotiza por WhatsApp."],
    "Regalos con tu marca 🎁 Camisetas DTF, termos y stickers.","PHOTO:termos.webp"),
@@ -253,4 +253,16 @@ def pieces():
         out.append(dict(V[i], day=i+1, date=f.isoformat(), fmt=vf, hour="13:00", id=f"d{i+1:02d}v"))
         if i % 2 == 0:
             out.append(dict(S[i//2], day=i+1, date=f.isoformat(), fmt="1x1" if vf == "4x5" else "4x5", hour="19:00", id=f"d{i+1:02d}s"))
+    for p in out:  # casos reales: link al sitio en vivo
+        u = SITE_LINKS.get(p['scene'][5:]) if p['scene'].startswith('SITE:') else None
+        if u and u not in p['cap']: p['cap'] += f"\n\n🔗 Míralo en vivo: {u}"
+        k = KEYWORDS.get(p['id'])  # palabra con respuesta automática en Bunker Social
+        if k: p['cap'] += f"\n\n💬 Comenta “{k}” y te mandamos la info por mensaje."
     return out
+
+KEYWORDS = {'d06v': 'FIGURA', 'd21r': 'FIGURA', 'd08r': 'CARRO', 'd14r': 'QR', 'd20r': 'BANDERA', 'd27r': 'POSADA', 'd30r': 'HOY PUBLICO'}
+
+SITE_LINKS = {'web-solace.webp': 'https://solaceskinlab.com', 'web-weneedair.webp': 'https://weneedair.com',
+              'web-tlaloc.webp': 'https://tlalocsolfuturo.com', 'web-mugan.webp': 'https://muganperfumes.com',
+              'web-donpunto.webp': 'https://donpunto.com', 'web-smockitpool.webp': 'https://smockitpool.com',
+              'web-fajasjuarez.webp': 'https://fajascolombianasjuarez.com', 'web-bunkertap.webp': 'https://bunkertap.com'}
