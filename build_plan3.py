@@ -31,7 +31,7 @@ h4{{margin:12px 0 4px;color:#8e98c4;font-size:12px;text-transform:uppercase;lett
 .pil{{display:flex;flex-wrap:wrap;gap:16px;align-items:flex-start}}figure{{margin:0;width:260px}}video{{width:100%;border-radius:12px;background:#000}}figcaption{{font-size:13px;color:#b4bde3;margin-top:6px}}figcaption a{{color:#c8ff2e}}
 </style><main><p class=sub>Plan para aprobación · v3 (Gary Vee + Hormozi + algoritmo Meta 2026)</p><h1>Bunker Creativo · <em>75 piezas</em> en 30 días</h1>
 <p class=sub>Facebook + Instagram · 9 nov → 8 dic 2026 · español MX · todas son video HyperFrames con voz, música y subtítulos (Reels)</p>
-<h2>Piloto · día 1 completo + un caso real ({len(PILOT)} videos)</h2><p class=sub>Decide aquí la voz (H o M) y el estilo antes de producir las otras {len(P)-len(PILOT)}.</p><div class=pil>{pil or '<p>Renderizando…</p>'}</div>
+<p><a href="entrega/" style="color:#c8ff2e;font-weight:800;font-size:1.2rem">→ Ver y descargar los 75 videos</a></p><h2>Piloto · día 1 completo + un caso real ({len(PILOT)} videos)</h2><p class=sub>Decide aquí la voz (H o M) y el estilo antes de producir las otras {len(P)-len(PILOT)}.</p><div class=pil>{pil or '<p>Renderizando…</p>'}</div>
 <div class=box><b>Cadencia diaria (Gary Vee: jab, jab, jab, right hook):</b><br>
 · <b>08:00 Reel 9:16</b> (30) — tip, detrás de cámaras, educación. Cierra con “comenta / guárdalo / mándaselo a alguien”.<br>
 · <b>13:00 Feed 4:5 / 1:1</b> (30) — preguntas a la comunidad, casos reales del portafolio, mitos, imprenta.<br>
