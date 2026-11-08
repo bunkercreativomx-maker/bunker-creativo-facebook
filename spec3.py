@@ -1,7 +1,7 @@
 # Bunker Creativo · FB + IG · 9 nov – 8 dic 2026 · v3 (Gary Vee + Hormozi) · 75 piezas, todas video HyperFrames con voz
 # Slots por día: R = Reel 9:16 (jab, 8:00) · V = feed valor/comunidad/prueba (jab, 13:00) · S = venta (right hook, 19:00, días impares)
 # Campos: svc, title, hl (palabra resaltada), sup (línea de apoyo o chips separados por ' · '), price, cta, vo (4 beats), cap, scene (EN, foto)
-START = "2026-11-09"
+START = "2026-11-08"
 WA = "656 682 5587"
 
 def P(slot, svc, title, hl, sup, cta, vo, cap, scene, price="", plbl=""):
@@ -253,6 +253,9 @@ def pieces():
         out.append(dict(V[i], day=i+1, date=f.isoformat(), fmt=vf, hour="13:00", id=f"d{i+1:02d}v"))
         if i % 2 == 0:
             out.append(dict(S[i//2], day=i+1, date=f.isoformat(), fmt="1x1" if vf == "4x5" else "4x5", hour="19:00", id=f"d{i+1:02d}s"))
+    # Thanksgiving (jue 26 nov) tiene que caer en su día: intercambia d18v y d19v
+    a = next(p for p in out if p['id'] == 'd18v'); b = next(p for p in out if p['id'] == 'd19v')
+    a['date'], b['date'], a['day'], b['day'] = b['date'], a['date'], b['day'], a['day']
     for p in out:  # casos reales: link al sitio en vivo
         u = SITE_LINKS.get(p['scene'][5:]) if p['scene'].startswith('SITE:') else None
         if u and u not in p['cap']: p['cap'] += f"\n\n🔗 Míralo en vivo: {u}"
